@@ -24,10 +24,13 @@
 * [Hamburgers Menus](https://jonsuh.com/hamburgers/) - Tasty CSS-animated Hamburgers.
 * [CSS Glow Generator](https://cssbud.com/css-generator/css-glow-generator/) - A modern and clearn CSS Glow Generator. Custom colors, transparency, and blurs
 * [Omatsuri](https://omatsuri.app/) - Progressive Web Application with 12 open source frontend focused tools.
+* [Get Waves](https://getwaves.io) - Allows you to make Wave SVG's very easy.
+* [Keyframes](https://keyframes.app) - Browser-based, mobile-friendly, actually private tools that make CSS a little less bad.
   
 
   
 
+Will be updated...
 
 
 ## Authors
