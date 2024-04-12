@@ -22,7 +22,7 @@
 * [Fancy Border Radius Generator](https://9elements.github.io/fancy-border-radius/#51.23.44.77--) - Generator to build organic shapes with CSS3 border-radius.
 * [CSS Grid Generator](https://cssgrid-generator.netlify.app/) - Create  grids for CSS.
 * [Hamburgers Menus](https://jonsuh.com/hamburgers/) - Tasty CSS-animated Hamburgers.
-* [CSS Glow Generator](https://cssbud.com/css-generator/css-glow-generator/) - A modern and clearn CSS Glow Generator. Custom colors, transparency, and blurs for your creative needs.
+* [CSS Glow Generator](https://cssbud.com/css-generator/css-glow-generator/) - A modern and clearn CSS Glow Generator. Custom colors, transparency, and blurs
 * [Omatsuri](https://omatsuri.app/) - Progressive Web Application with 12 open source frontend focused tools.
   
 
