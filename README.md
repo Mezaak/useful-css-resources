@@ -26,7 +26,11 @@
 * [Omatsuri](https://omatsuri.app/) - Progressive Web Application with 12 open source frontend focused tools.
 * [Get Waves](https://getwaves.io) - Allows you to make Wave SVG's very easy.
 * [Keyframes](https://keyframes.app) - Browser-based, mobile-friendly, actually private tools that make CSS a little less bad.
-  
+* [Stripes Generator](https://stripesgenerator.com) - CSS Stripe generator.
+* [Clippy](https://bennettfeely.com/clippy/) - CSS Clip path maker tool.
+* [Glassmorphsim Generator](https://hype4.academy/tools/glassmorphism-generator) - Easy tool that you can use for generating glassmorphism effects.
+* [CSS Gradient](https://cssgradient.io) - Like its name, simple css gradient generator.
+* [PurifyCSS Online](https://purifycss.online) - Remove unused CSS code from your stylesheets.
 
   
 
