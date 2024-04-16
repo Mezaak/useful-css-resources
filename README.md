@@ -31,6 +31,7 @@
 * [Glassmorphsim Generator](https://hype4.academy/tools/glassmorphism-generator) - Easy tool that you can use for generating glassmorphism effects.
 * [CSS Gradient](https://cssgradient.io) - Like its name, simple css gradient generator.
 * [PurifyCSS Online](https://purifycss.online) - Remove unused CSS code from your stylesheets.
+* [WebGradients](https://webgradients.com) - Amazing gradient colors.
 
   
 
