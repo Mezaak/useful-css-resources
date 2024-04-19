@@ -32,6 +32,8 @@
 * [CSS Gradient](https://cssgradient.io) - Like its name, simple css gradient generator.
 * [PurifyCSS Online](https://purifycss.online) - Remove unused CSS code from your stylesheets.
 * [WebGradients](https://webgradients.com) - Amazing gradient colors.
+* [SVG Backgrounds](https://www.svgbackgrounds.com) - Copy-and-paste website graphics directly into projects.
+* [Animated Backgrounds](https://animatedbackgrounds.me) - Easily set a variety of elegant and engaging background animations with just a few clicks.
 
   
 
