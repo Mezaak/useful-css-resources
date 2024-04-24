@@ -12,7 +12,7 @@
 ## Table Of Contents
 
 * [Websites-Links](#websites-links)
-* [Authors](#authors)
+* [Author](#author)
 
 ## Websites Links
 
@@ -40,7 +40,7 @@
 Will be updated...
 
 
-## Authors
+## Author
 
  **Boran Akkaya** - *Front-End Developer* - [Mezaak](https://github.com/Mezaak)
 
