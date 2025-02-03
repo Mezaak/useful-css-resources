@@ -37,6 +37,7 @@
 * [10015](https://10015.io/css-tools) - Awesome tools for CSS such asclip path generator, loaders and cubic bezier tools.
 * [Cool Shapes](https://coolshap.es) - Free and very good looking shapes, svg, png.
 * [Stunning UI](https://stunningui.design/) - A collection of beautiful, interactive tailwind components.
+* [404 Illustrations](https://error404.fun) - A small set of trendy, ready-to-use images specifically for your 404 pages.
 
   
 
