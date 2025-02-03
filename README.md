@@ -35,6 +35,8 @@
 * [SVG Backgrounds](https://www.svgbackgrounds.com) - Copy-and-paste website graphics directly into projects.
 * [Animated Backgrounds](https://animatedbackgrounds.me) - Easily set a variety of elegant and engaging background animations with few clicks.
 * [10015](https://10015.io/css-tools) - Awesome tools for CSS such asclip path generator, loaders and cubic bezier tools.
+* [Cool Shapes](https://coolshap.es) - Free and very good looking shapes, svg, png.
+* [Stunning UI](https://stunningui.design/) - A collection of beautiful, interactive tailwind components.
 
   
 
